@@ -1,0 +1,13 @@
+/* Puedes agregar estilos personalizados aquí si es necesario */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#saludo {
+    margin-top: 50px;
+    font-size: 36px;
+    font-weight: bold;
+    color: #333;
+}
